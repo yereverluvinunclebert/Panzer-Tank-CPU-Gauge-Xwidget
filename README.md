@@ -2,13 +2,14 @@
  
 Dieselpunk Desktop CPU widget, written in Jscript for the XWidget Engine. Created for XP, Vista, Win7, 8, 10+ as well as the Apple Mac/Linux using Wine.
 
-![panzercpu-photo-1440x900](https://github.com/yereverluvinunclebert/Panzer-Tank-CPU-Gauge-Xwidget/assets/2788342/b824c59c-3d54-4480-81e6-1f614818b229)
+![panzer-cpu-1440x900](https://github.com/yereverluvinunclebert/Panzer-Tank-CPU-Gauge-Xwidget/assets/2788342/7e13b346-e87a-42b9-86b3-c9629484bbd3)
+
 
 This Panzer widget is an attractive dieselpunk Yahoo widget for your desktop. It is a simple CPU usage gauge. The CPU gauge displays CPU usage for your desktop/laptop. Functional and gorgeous at the same time. This Widget is a moveable widget that you can move anywhere around the desktop as you require. I created for the World of Tanks and War Thunder communities. The graphics are my own, I took original inspiration from a clock face by Italo Fortana.
 
 This Widget is a moveable widget that you can move anywhere around the desktop as you require.
 
-![panzer-cpugauge-help-750](https://github.com/yereverluvinunclebert/Panzer-Tank-CPU-Gauge-Xwidget/assets/2788342/c1988d25-139e-479e-b1cc-3f673b84176c)
+![panzer-cpugauge-help-750](https://github.com/yereverluvinunclebert/Panzer-Tank-CPU-Gauge-Xwidget/assets/2788342/ed717858-f013-4a4e-9b31-c411246852e0)
 
 To find out how the widget operates, simply right click and select Help and a full explanation of all the buttons, windows is shown. The top left window is the current power in digital form. Hovering over any control should supply a pop-up explaining each function.
 
@@ -19,6 +20,7 @@ All javascript widgets need an engine to function, in this case the widget uses 
 This widget is a virtual duplicate of the Yahoo widget CPU battery widget that 
 you can find here: 
 
+![panzer-cpu-256](https://github.com/yereverluvinunclebert/Panzer-Tank-CPU-Gauge-Xwidget/assets/2788342/33b0308e-7e80-4fea-8b69-fa87b395e4c2)
 
 The graphic interface and operation of the two types of widgets are the same. The 
 only differences are the configuration preference utility (this has a cut-down 
@@ -61,7 +63,8 @@ Running the widget using a Jscript engine frees Javascript from running only
 within the captivity of a browser o, you will now be able to run these widgets on 
 your Windows desktop as long as you have the correct widget engine installed.
 
-![Icon](https://github.com/yereverluvinunclebert/Panzer-Tank-CPU-Gauge-Xwidget/assets/2788342/0215288c-1a92-4970-a67d-c83ece5cd9f3)
+![dock](https://github.com/yereverluvinunclebert/Panzer-Tank-CPU-Gauge-Xwidget/assets/2788342/29d6741b-0081-4861-a6fd-49d8a500704c)
+
 
 
 Instructions for running XWidgets on Windows
@@ -72,7 +75,8 @@ Instructions for running XWidgets on Windows
 3. Unzip it
 4. Double-click on the resulting .XUL file and it will install and run
 
-![about](https://github.com/yereverluvinunclebert/Panzer-Tank-CPU-Gauge-Xwidget/assets/2788342/025164bc-2276-4f69-9b36-d4eae1788bef)
+
+![about](https://github.com/yereverluvinunclebert/Panzer-Tank-CPU-Gauge-Xwidget/assets/2788342/8c33c6ff-afaa-4101-881c-64f5e716fdaa)
 
 
 LICENCE AGREEMENTS:
