@@ -2,9 +2,13 @@
  
 Dieselpunk Desktop CPU widget, written in Jscript for the XWidget Engine. Created for XP, Vista, Win7, 8, 10+ as well as the Apple Mac/Linux using Wine.
 
+![panzercpu-photo-1440x900](https://github.com/yereverluvinunclebert/Panzer-Tank-CPU-Gauge-Xwidget/assets/2788342/b824c59c-3d54-4480-81e6-1f614818b229)
+
 This Panzer widget is an attractive dieselpunk Yahoo widget for your desktop. It is a simple CPU usage gauge. The CPU gauge displays CPU usage for your desktop/laptop. Functional and gorgeous at the same time. This Widget is a moveable widget that you can move anywhere around the desktop as you require. I created for the World of Tanks and War Thunder communities. The graphics are my own, I took original inspiration from a clock face by Italo Fortana.
 
 This Widget is a moveable widget that you can move anywhere around the desktop as you require.
+
+![panzer-cpugauge-help-750](https://github.com/yereverluvinunclebert/Panzer-Tank-CPU-Gauge-Xwidget/assets/2788342/c1988d25-139e-479e-b1cc-3f673b84176c)
 
 To find out how the widget operates, simply right click and select Help and a full explanation of all the buttons, windows is shown. The top left window is the current power in digital form. Hovering over any control should supply a pop-up explaining each function.
 
