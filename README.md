@@ -34,12 +34,15 @@ All Jscript widgets need an engine to function, in this case the widget uses
 the XWidget engine. The engine interprets the Jscript and creates the widget 
 according to the XML description and using the images you provide. 
 
+![xwidget-title_111](https://github.com/yereverluvinunclebert/Panzer-Tank-CPU-Gauge-Xwidget/assets/2788342/77d5f6bc-168d-435a-b9d6-b0a8355109d9)
+
 Built using: 
 
 	Adobe Photoshop CS ver 8.0 (2003)  https://www.adobe.com/uk/products/photoshop/free-trial-download.   
 	XWidget engine, runtime and debugger https://www.xwidget.com/   
 
- 
+ ![xwidget-title](https://github.com/yereverluvinunclebert/Panzer-Tank-CPU-Gauge-Xwidget/assets/2788342/07e8d5dc-cd50-47c6-9f1d-078bcc72389c)
+
 Tested on :
 
 	ReactOS 0.4.14 32bit on virtualBox    
