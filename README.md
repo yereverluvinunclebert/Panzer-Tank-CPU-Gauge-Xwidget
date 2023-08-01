@@ -61,7 +61,8 @@ Running the widget using a Jscript engine frees Javascript from running only
 within the captivity of a browser o, you will now be able to run these widgets on 
 your Windows desktop as long as you have the correct widget engine installed.
 
- ![panzer-battery-icon](https://github.com/yereverluvinunclebert/Panzer-Tank-Battery-Gauge-Xwidget/assets/2788342/c02d8cd9-c4ba-40b6-bf5a-463759cdf189)
+![Icon](https://github.com/yereverluvinunclebert/Panzer-Tank-CPU-Gauge-Xwidget/assets/2788342/0215288c-1a92-4970-a67d-c83ece5cd9f3)
+
 
 Instructions for running XWidgets on Windows
 =================================================
@@ -71,7 +72,7 @@ Instructions for running XWidgets on Windows
 3. Unzip it
 4. Double-click on the resulting .XUL file and it will install and run
 
-![about](https://github.com/yereverluvinunclebert/Panzer-Tank-Battery-Gauge-Xwidget/assets/2788342/b41907bb-2bc2-4b0c-b829-78dcd5a8fd85)
+![about](https://github.com/yereverluvinunclebert/Panzer-Tank-CPU-Gauge-Xwidget/assets/2788342/025164bc-2276-4f69-9b36-d4eae1788bef)
 
 
 LICENCE AGREEMENTS:
