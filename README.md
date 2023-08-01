@@ -26,6 +26,8 @@ The graphic interface and operation of the two types of widgets are the same. Th
 only differences are the configuration preference utility (this has a cut-down 
 version), the language is Micrososoft's JScript (rather than javascript) and it is the Xwidget engine that is utilised to put the widget on your screen.
 
+![xwidget-title2](https://github.com/yereverluvinunclebert/Panzer-Tank-CPU-Gauge-Xwidget/assets/2788342/a9d58973-347f-4f93-ba1f-4b538f743515)
+
 This widget is uploaded here for historical archival reasons. I suggest that you 
 use the Yahoo widget version as it is a superior engine for developing widgets. 
 I will provide bugfixes for the Yahoo widget version but NOT for Xwidgets.
@@ -34,7 +36,6 @@ All Jscript widgets need an engine to function, in this case the widget uses
 the XWidget engine. The engine interprets the Jscript and creates the widget 
 according to the XML description and using the images you provide. 
 
-![xwidget-title_111](https://github.com/yereverluvinunclebert/Panzer-Tank-CPU-Gauge-Xwidget/assets/2788342/77d5f6bc-168d-435a-b9d6-b0a8355109d9)
 
 Built using: 
 
