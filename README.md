@@ -2,6 +2,8 @@
  
 Dieselpunk Desktop CPU widget, written in Jscript for the XWidget Engine. Created for XP, Vista, Win7, 8, 10+ as well as the Apple Mac/Linux using Wine.
 
+This widget is now deprecated and is retained for historical reasons only, it still works but time moves ever onward - please use the VB6 version instead that you will find here: https://github.com/yereverluvinunclebert/Panzer-CPU-Gauge-VB6
+
 ![panzer-cpu-1440x900](https://github.com/yereverluvinunclebert/Panzer-Tank-CPU-Gauge-Xwidget/assets/2788342/7e13b346-e87a-42b9-86b3-c9629484bbd3)
 
 
